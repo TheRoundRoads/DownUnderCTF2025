@@ -1,0 +1,15 @@
+Flags:
+
+Welcome: ydctf{s0mething_1s_wr0ng}
+Even Deeper: ydctf{<username>}
+Salad: ydctf{suchislife}
+Passwords: ydctf{ihatehackers}
+Rotten: ydctf{do_you_trust_my_code?}
+Hidden: ydctf{HIDDENFLAGNOTSOHIDDEN}
+Deeper: ydctf{rsa_erry_day}
+Truth from VAAS: ydctf{michael_mando}
+
+Part 2:
+1: flag{des4eva}
+2: Tropicana
+3: Hack The Planet
